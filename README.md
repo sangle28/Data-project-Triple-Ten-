@@ -2,14 +2,14 @@
 Global repository of all my projects completed at TripleTen
 
 
-[1. Television Ratings Analysis](https://github.com/sangle28/Television-Ratings-Analysis)
+### [1. Television Ratings Analysis](https://github.com/sangle28/Television-Ratings-Analysis)
 
 This project focuses on a thorough analysis of data from the entertainment industry. It focuses on the "Golden Age" of television, which began in 1999, with the release of The Sopranos. The aim of this project is to investigate how the number of votes a title receives impacts its ratings. The assumption is that highly-rated shows released during the "Golden Age" of television also have the most votes.
 
 Skills Demonstrated
 Python | Data Analytics | Data Manipulation | Data Preprocessing | Exploratory Data Analysis
 
-### 2. Instacart Data Analysis
+### [2. Instacart Data Analysis](https://github.com/sangle28/Instacart-Data-Analysis)
 This project is an analysis of data provided from Instacart. It contains multiple tables for orders, products, aisles and departments. The goal of this project is to develop a report that gives insight into the shopping behavior of Instacart customers.
 
 Skills Demonstrated
