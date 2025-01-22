@@ -1,9 +1,8 @@
 # Data-project-Triple-Ten-
-TripleTen-Projects
 Global repository of all my projects completed at TripleTen
 
 # 1. Television Ratings Analysis
-[https://github.com/sangle28/Television-Ratings-Analysis]# 1. Television Ratings Analysis
+[https://github.com/sangle28/Television-Ratings-Analysis](# 1. Television Ratings Analysis)
 
 This project focuses on a thorough analysis of data from the entertainment industry. It focuses on the "Golden Age" of television, which began in 1999, with the release of The Sopranos. The aim of this project is to investigate how the number of votes a title receives impacts its ratings. The assumption is that highly-rated shows released during the "Golden Age" of television also have the most votes.
 
